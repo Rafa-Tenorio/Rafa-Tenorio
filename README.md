@@ -27,12 +27,12 @@ Atualmente, dedico-me ao planeamento estratégico de testes, escrita de cenário
 
 ## Habilidades e tecnologias
 
-| Categoria | Tecnologias |
+| | |
 | :--- | :--- |
-| **Linguagens e frameworks** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"> |
+| **Linguagens e Frameworks** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"> |
 | **Testes de API** | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> |
 | **Versionamento** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> |
-| **Gestão e metodologias** | <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Scrum-000000?style=flat-square"> <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square"> |
+| **Gestão e Metodologias** | <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Scrum-000000?style=flat-square"> <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square"> |
 
 ---
 
