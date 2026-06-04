@@ -43,5 +43,5 @@ Atualmente, dedico-me ao planeamento estratégico de testes, escrita de cenário
 
 ---
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Constru%C3%ADdo%20por%20Rafael%2C%20QA%20focado%20em%20testes%20manuais%20e%20automa%C3%A7%C3%A3o.-grey?style=flat-square">
+  <img src="https://img.shields.io/badge/Construído%20por%20Rafael,%20QA%20focado%20em%20testes%20manuais%20e%20automação.%20🚀-grey?style=flat-square">
 </div>
