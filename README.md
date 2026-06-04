@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Olá! Sou o *Rafael*, um profissional em transição de carreira para a área de Tecnologia, com foco em Garantia de Qualidade de Software (QA). O meu percurso combina uma base académica em *Direito* com a disciplina, resiliência e capacidade de resolução de problemas sob pressão desenvolvidas na minha experiência profissional como *Bombeiro*.
+Olá! Sou o **Rafael**, um profissional em transição de carreira para a área de Tecnologia, com foco em Garantia de Qualidade de Software (QA). O meu percurso combina uma base académica em **Direito** com a disciplina, resiliência e capacidade de resolução de problemas sob pressão desenvolvidas na minha experiência profissional como **Bombeiro**.
 
 Atualmente, dedico-me ao planeamento estratégico de testes, escrita de cenários manuais e ao desenvolvimento de scripts de automação. Também estou focado nos estudos para a certificação *ISTQB®*, consolidando os meus conhecimentos em engenharia de software.
 
