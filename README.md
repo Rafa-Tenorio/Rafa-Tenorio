@@ -25,7 +25,7 @@ Atualmente, dedico-me ao planeamento estratégico de testes, escrita de cenário
 
 ---
 
-## Habilidades e tecnologias
+## Habilidades e Tecnologias
 
 | | |
 | :--- | :--- |
@@ -36,7 +36,7 @@ Atualmente, dedico-me ao planeamento estratégico de testes, escrita de cenário
 
 ---
 
-## Contato
+## Contactos
 
 <a href="https://www.linkedin.com/in/rafael-tenorio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="mailto:tenorio.job97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-tenorio.job97@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
