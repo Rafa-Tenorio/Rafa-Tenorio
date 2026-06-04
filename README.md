@@ -1,3 +1,10 @@
+Ajustado, Rafael! Vamos por partes para esclarecer a tua dúvida sobre o Git e deixar o teu perfil impecável.
+A diferença entre Git e GitHub (São coisas diferentes!)
+Git é a ferramenta que instalas no teu computador para controlar as versões do teu código, guardar o histórico das alterações e criar branches.
+GitHub é o site (a plataforma na nuvem) onde guardas esses projetos online para que outras pessoas os possam ver, que é exatamente onde estamos a mexer agora.
+Como usas o GitHub Desktop, tu já usas o Git por trás do pano sem notar! Por isso, o ideal é manter os dois, pois mostra aos recrutadores que sabes a diferença.
+Aqui tens o teu código totalmente atualizado com as correções: Java, TypeScript e Playwright juntos; Jira, Scrum e Kanban na gestão; e a assinatura final com Rafael destacando testes manuais e automação.
+Podes mudar para a aba "Code", apagar o texto antigo e colar este:
 # Analista de Qualidade de Software (QA)
 
 <p>
@@ -29,10 +36,10 @@ Atualmente, dedico-me ao planeamento estratégico de testes, escrita de cenário
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens e frameworks** | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"> |
+| **Linguagens e frameworks** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"> |
 | **Testes de API** | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> |
-| **Versionamento** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> |
-| **Gestão e metodologias** | <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Scrum-000000?style=flat-square"> |
+| **Versionamento** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> |
+| **Gestão e metodologias** | <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Scrum-000000?style=flat-square"> <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square"> |
 
 ---
 
@@ -43,5 +50,7 @@ Atualmente, dedico-me ao planeamento estratégico de testes, escrita de cenário
 
 ---
 <div align="center">
-  <img src="https://img.shields.io/badge/Constru%C3%ADdo%20por%20Rafa%2C%20QA%20focado%20em%20automa%C3%A7%C3%A3o%20e%20entrega%20de%20qualidade.-grey?style=flat-square">
+  <img src="https://img.shields.io/badge/Constru%C3%ADdo%20por%20Rafael%2C%20QA%20focado%20em%20testes%20manuais%20e%20automa%C3%A7%C3%A3o.-grey?style=flat-square">
 </div>
+
+Faz o Commit changes para salvar e vai ao teu perfil principal. Ficou mesmo no ponto agora?
