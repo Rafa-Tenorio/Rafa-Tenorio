@@ -1,4 +1,4 @@
-# Analista de Qualidade de Software (QA)
+# Quality Assunrance (QA)
 
 <p>
   <img src="https://img.shields.io/badge/PLATAFORMAS-WEB%20MOBILE%20%7C%20WEB%20DESKTOP%20%7C%20API-brightgreen" alt="Plataformas">
