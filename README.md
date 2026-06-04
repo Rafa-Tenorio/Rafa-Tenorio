@@ -27,7 +27,6 @@ Atualmente, dedico-me ao planeamento estratégico de testes, escrita de cenário
 
 ## Habilidades e tecnologias
 
-| Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens e frameworks** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"> |
 | **Testes de API** | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> |
