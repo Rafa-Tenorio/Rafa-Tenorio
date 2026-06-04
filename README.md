@@ -1,9 +1,9 @@
 # Analista de Qualidade de Software (QA)
 
 <p>
-  <img src="https://img.shields.io/badge/PLATAFORMAS-WEB%20%7C%20API-brightgreen" alt="Plataformas">
-  <img src="https://img.shields.io/badge/FERRAMENTAS-PLAYWRIGHT%20%7C%20POSTMAN%20%7C%20JIRA-blue" alt="Ferramentas">
-  <img src="https://img.shields.io/badge/TESTES-MANUAIS%20%7C%20UI%20%7C%20API%20%7C%20E2E-purple" alt="Testes">
+  <img src="https://img.shields.io/badge/PLATAFORMAS-WEB%20MOBILE%20%7C%20WEB%20DESKTOP%20%7C%20API-brightgreen" alt="Plataformas">
+  <img src="https://img.shields.io/badge/FERRAMENTAS-PLAYWRIGHT%20%7C%20POSTMAN%20%7C%20VS%20CODE%20%7C%20JIRA-blue" alt="Ferramentas">
+  <img src="https://img.shields.io/badge/TESTES-MANUAIS%20%7C%20UI%20%7C%20API%20%7C%20E2E%20%7C%20CI--CD-purple" alt="Testes">
 </p>
 
 ---
