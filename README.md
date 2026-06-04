@@ -18,7 +18,7 @@ Atualmente, dedico-me ao planeamento estratégico de testes, escrita de cenário
 
 ## Projetos
 
-| Projeto | Descrição | PRs | Commits     |
+| Projeto | Descrição | PRs | Commits |
 | :--- | :--- | :--- | :--- |
 | 🗂️ [QA-Automation-Playwright](https://github.com/Rafa-Tenorio/QA-Automation-Playwright) | Automação de testes E2E utilizando TypeScript e Playwright. | [🔗PRs](https://github.com/Rafa-Tenorio/QA-Automation-Playwright/pulls) | [📊Commits](https://github.com/Rafa-Tenorio/QA-Automation-Playwright/commits/main) |
 | 🗂️ [API-Testing-Postman](https://github.com/Rafa-Tenorio/api-testing-postman) | Validação, testes manuais e automação de endpoints e APIs com Postman. | [🔗PRs](https://github.com/Rafa-Tenorio/api-testing-postman/pulls) | [📊Commits](https://github.com/Rafa-Tenorio/api-testing-postman/commits/main) |
