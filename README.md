@@ -10,9 +10,11 @@
 
 ## Sobre mim
 
-Olá! Sou o **Rafael**, um profissional em transição de carreira para a área de Tecnologia, com foco em Garantia de Qualidade de Software (QA). O meu percurso combina uma base académica em **Direito** com a disciplina, resiliência e capacidade de resolução de problemas sob pressão desenvolvidas na minha experiência profissional como **Bombeiro**.
+Olá! Sou o **Rafael**, um profissional em transição de carreira para a área de Tecnologia, com foco em **Garantia de Qualidade de Software (QA)**. 
 
-Atualmente, dedico-me ao planeamento estratégico de testes, escrita de cenários manuais e ao desenvolvimento de scripts de automação. Também estou focado nos estudos para a certificação *ISTQB®*, consolidando os meus conhecimentos em engenharia de software.
+O meu percurso combina uma base académica em **Direito** com a disciplina, resiliência e foco sob pressão desenvolvidas na minha experiência como **Bombeiro**. Esta bagagem trouxe-me facilidade com processos rígidos e análise de risco, competências que hoje aplico na escrita de cenários manuais, planeamento estratégico e desenvolvimento de scripts de automação.
+
+Atualmente, estou a aprofundar conhecimentos com o framework **ISTQB® CTFL** e a expandir a minha formação técnica através do programa **PRODIGI** (parceria entre o ISEL, IPL e ULisboa, com créditos ECTS). O programa abrange desde os fundamentos de programação e estruturas de dados até técnicas de desenvolvimento, construindo uma base sólida para identificar falhas o mais cedo possível e garantir a melhor experiência para o utilizador final.
 
 ---
 
