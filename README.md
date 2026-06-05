@@ -37,7 +37,6 @@ Atualmente, estou a aprofundar conhecimentos com o framework **ISTQB® CTFL** e 
 | **Testes de API** | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> |
 | **Versionamento** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> |
 | **Gestão e Metodologias** | <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Scrum-000000?style=flat-square"> <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square"> |
-| 📋 Fluxo de Trabalho (Jira) | Gestão de testes, escrita de User Stories e organização do board (Scrum/Kanban). | [🖼️ Ver Workflow](jira-workflow.png) |
 
 ---
 
