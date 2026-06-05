@@ -22,8 +22,7 @@ Atualmente, dedico-me ao planeamento estratégico de testes, escrita de cenário
 | :--- | :--- | :--- | :--- |
 | 🗂️ [QA-Automation-Playwright](https://github.com/Rafa-Tenorio/QA-Automation-Playwright) | Automação de testes E2E utilizando TypeScript e Playwright. | [🔗PRs](https://github.com/Rafa-Tenorio/QA-Automation-Playwright/pulls) | [📊Commits](https://github.com/Rafa-Tenorio/QA-Automation-Playwright/commits/main) |
 | 🗂️ [API-Testing-Postman](https://github.com/Rafa-Tenorio/api-testing-postman) | Validação, testes manuais e automação de endpoints e APIs com Postman. | [🔗PRs](https://github.com/Rafa-Tenorio/api-testing-postman/pulls) | [📊Commits](https://github.com/Rafa-Tenorio/api-testing-postman/commits/main) |
-| 🗂️ [Estudo-API](https://estudo-api-eight.vercel.app/) | API desenvolvida pela minha irmã para prática de testes e validação. | - | - |
-
+| 🗂️ Estudo API (Projeto Familiar) | API desenvolvida pela minha irmã para prática de testes e validação. | [🚀 Acessar](https://estudo-api-eight.vercel.app/) |
 ---
 
 ## Habilidades e Tecnologias
