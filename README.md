@@ -25,7 +25,7 @@ Atualmente, estou a aprofundar conhecimentos com o framework **ISTQB® CTFL** e 
 | 🗂️ [QA-Automation-Playwright](https://github.com/Rafa-Tenorio/QA-Automation-Playwright) | Automação de testes E2E utilizando TypeScript e Playwright. | [📊 Commits](https://github.com/Rafa-Tenorio/QA-Automation-Playwright/commits/main) |
 | 🗂️ [API-Testing-Postman](https://github.com/Rafa-Tenorio/api-testing-postman) | Validação, testes manuais e automação de endpoints e APIs com Postman. | [📊 Commits](https://github.com/Rafa-Tenorio/api-testing-postman/commits/main) |
 | 🗂️ Estudo API | API desenvolvida pela minha irmã para prática de testes e validação. | [🔗 Acessar](https://estudo-api-eight.vercel.app/) |
-| 📋 Fluxo de Trabalho (Jira) | Gestão de testes, escrita de User Stories e organização do board (Scrum/Kanban). | [🖼️ Ver Workflow](jira-workflow.png) |
+| 🗂️ Fluxo de Trabalho (Jira) | Gestão Ágil (Jira) | Organização de Sprint Backlog, escrita de User Stories e fluxo de testes (Scrum Board). | [🖼️ Ver Workflow](jira-board.png) |
 
 ---
 
